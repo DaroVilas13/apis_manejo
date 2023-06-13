@@ -33,3 +33,10 @@ deactivate
 -------------------------
 
 https://www.mclibre.org/consultar/informatica/lecciones/vsc-git-repositorio.html
+
+gunicorn api:app 
+
+https://www.youtube.com/watch?v=920XxI2-MJ0
+
+
+https://github.com/jamj2000/tiendabackend

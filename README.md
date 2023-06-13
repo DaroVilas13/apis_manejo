@@ -30,3 +30,6 @@ python -m virtualenv venv
 ------------------------------
 .\venv\Scripts\activate  
 deactivate  
+-------------------------
+
+https://www.mclibre.org/consultar/informatica/lecciones/vsc-git-repositorio.html
